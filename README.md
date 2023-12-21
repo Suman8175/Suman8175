@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Suman8175.Suman8175" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suman+Devkota!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&color=5F0818FF&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suman+Devkota!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Nepal.</h3>
