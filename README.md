@@ -13,11 +13,9 @@
  
  🔭 I’m currently working on **YHH IT Solutions**
  
- 🌱 I’m currently learning **Java, Wordpress, AWS**
+ 🌱 I’m currently learning **Java**
 
 💬 Ask me about **PHP, Flutter, Firebase or anything [here](https://github.com/Suman8175/Suman8175/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -56,13 +54,3 @@
 <hr/>
 
 
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-<br/>
